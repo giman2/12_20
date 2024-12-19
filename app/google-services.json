@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "772797074206",
-    "project_id": "refeedb",
-    "storage_bucket": "refeedb.firebasestorage.app"
+    "project_number": "896401798870",
+    "project_id": "teamproject-15309",
+    "storage_bucket": "teamproject-15309.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:772797074206:android:f77fcaf97f6a4f8923970f",
+        "mobilesdk_app_id": "1:896401798870:android:4ffc3e27db0bf0a341fb77",
         "android_client_info": {
-          "package_name": "com.Refee.RefeeDB"
+          "package_name": "net.flow9.TeamProject.firebase"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDEr38idr5JYJAwScVWxCRDm1C1_5xCKdM"
+          "current_key": "AIzaSyDfxVHKcA4FLeoz982UgYalVRmKlTKxZe0"
         }
       ],
       "services": {
