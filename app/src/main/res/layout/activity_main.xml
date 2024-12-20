@@ -21,7 +21,6 @@
         android:textColor="#424242"
         android:textSize="23dp"
         android:layout_margin="2dp"/>
-
     <EditText
         android:id="@+id/email"
         android:layout_width="match_parent"
